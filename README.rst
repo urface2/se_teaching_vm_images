@@ -106,3 +106,6 @@ HowTo
 
       make ubuntu_convert_to_vhd
       make centos_convert_to_vhd
+     
+9. Monitoring 
+- Statuscake
