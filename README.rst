@@ -109,3 +109,5 @@ HowTo
      
 9. Monitoring 
 - Statuscake
+
+<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=4o6qv4jhUf&Days=1&Design=1" /></a>
